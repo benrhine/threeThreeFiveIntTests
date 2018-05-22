@@ -15,3 +15,5 @@ Upgrade gradle wrapper to 4.6
 
 Running all 3 test variants pass without issue when using the upgraded gradle wrapper of 4.6
 
+Testing Issue https://github.com/grails/grails-core/issues/10999
+Reference Issue https://github.com/grails/grails-core/issues/10959
